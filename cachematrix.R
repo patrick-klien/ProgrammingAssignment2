@@ -3,8 +3,8 @@
 ## The purpose of this function pair is to solve for the inverse of a matrix and store it in cache.
 ## Then to return the inverted matrix whenever it is requested.
 
-## The main point is that inverting a matrix can be costly.
 ## This function is used to get and set the inverse of the matrix - especially if it is large.
+## The main point is that inverting a matrix can be costly.
 
 ## Functions:
 ## 1. set = set the value of the matrix
